@@ -1,0 +1,14 @@
+# Mengabaikan file sistem dan folder Windows
+AppData/
+Cookies/
+Documents/
+Downloads/
+Favorites/
+Music/
+Pictures/
+Videos/
+OneDrive/
+*.log
+*.dat
+*.ini
+NTUSER.DAT*
